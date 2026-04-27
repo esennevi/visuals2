@@ -9,13 +9,19 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
+## Figure 1
+
 <img src="static/imgs/graph1.png" alt="Image of Graph 1." width="500">
 
 ## This graph shows that the more prior experience in COMP SCI that you have, the more your general understanding in the class. There is a mild positive correlation.
 
+## Figure 2
+
 <img src="static/imgs/graph3.png" alt="Image of Graph 2." width="500">
 
 ## This graph shows that most students in the class do not have any prior experience in COMP SCI which emphasizes the importance of solidifying python fundamentals to increase general understanding in the class.
+
+## Figure 3
 
 <img src="static/imgs/index.md.png" alt="Image of Graph 3." width="500">
 
